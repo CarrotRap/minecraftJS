@@ -7,6 +7,6 @@
     "parcel": "^2.4.1"
   },
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel *.html --dist-dir docs"
   }
 }
