@@ -8,6 +8,6 @@
   },
   "scripts": {
     "start": "parcel *.html --dist-dir docs",
-    "build": "parcel build index.html --dist-dir docs --public-url ./minecraftJS"
+    "build": "parcel build index.html --dist-dir docs --public-url ."
   }
 }
